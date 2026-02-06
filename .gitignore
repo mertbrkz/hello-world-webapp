@@ -1,0 +1,29 @@
+# Maven
+target/
+*.jar
+*.war
+*.zip
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+*.class
+.classpath
+.project
+.settings/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+.gradle/
