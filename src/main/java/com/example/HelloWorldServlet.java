@@ -16,6 +16,6 @@ public class HelloWorldServlet {
 class HelloController {
     @GetMapping("/hello")
     public String hello() {
-        return "HELLO";
+        return "HELLO WORLD - v1.1";
     }
 }
